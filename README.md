@@ -1,1 +1,1 @@
-syedrajib97.snakeGame.io
+https://syedrajib97.github.io/snake
