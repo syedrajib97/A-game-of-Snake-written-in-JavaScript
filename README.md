@@ -1,1 +1,1 @@
-https://syedrajib97.github.io/snake
+http://syedrajib97.github.snake/
